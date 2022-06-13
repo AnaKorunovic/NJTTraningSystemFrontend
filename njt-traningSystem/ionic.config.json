@@ -1,0 +1,7 @@
+{
+  "name": "njt-traningSystem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

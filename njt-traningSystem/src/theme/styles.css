@@ -1,0 +1,92 @@
+#entityPageTitle{
+    font-size: xx-large;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    font-weight: bold;
+    color: rgb(37, 36, 36);
+
+}
+
+#inputSearch{
+    background-color: rgb(254, 253, 253);
+    border: solid 0.1px rgb(222, 220, 220);
+    margin-left: 2em;
+    width: 45%;
+}
+
+#inputSearchGroup{
+    border: solid 0.1px rgb(222, 220, 220);
+    margin-left: 0em;
+    width: 120%;
+}
+#search{
+    width: 40%;
+    margin-left: 2em;
+}
+#entityTable{
+width: 90%;
+border: solid 0.1px rgb(11, 8, 8);
+
+}
+#entityFilter{
+    margin-left: 1.3em;
+}
+#entityTableHeader{
+    background-color: rgb(252, 236, 218);
+    height: 120%;
+    font-size: large;
+    font-weight: bold;
+}
+#entityTableRows{
+    background-color: rgb(249, 246, 241);
+   
+}
+
+.loginPage{
+    width: 40%;
+    height: 200%;
+    margin-left: 23em;
+    margin-right: 10em;
+    margin-top: 5em;
+    align-items: center;
+}
+#registerLink{
+margin-left: -2em;
+}
+.entityCard{
+    width:50%;
+    height:85%;
+    margin-left: 23em;
+margin-top: 1.5em;
+overflow-y: scroll;
+
+}
+.entityCardNoScroll{
+    width: 50%;
+    margin-left: 23em;
+margin-top: 1.5em;
+
+}
+#btnCloseModal{
+    width: 50%;
+    margin-left: 23em;
+    margin-right: 10em;
+}
+.searchDate{
+    width: 70%;
+    height: 30%;
+    font-size: 2px;
+}
+
+#presenceBtn{
+    width: 50%;
+    margin-top: 2em;
+    margin-left:2em;
+}
+#btnClosePresence{
+    margin-left: 10.5em;
+}
+#btnPersistance{
+    width: 90%;
+    margin-left:2.53em;
+}
